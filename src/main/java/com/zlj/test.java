@@ -9,5 +9,6 @@ public class test {
 
         System.out.println("你好 git5");
         System.out.println("push test");
+        System.out.println("httpspush test");
     }
 }

@@ -9,7 +9,7 @@ public class test {
 
         System.out.println("你好 git5");
         System.out.println("push test");
-        System.out.println("httpspush test");
-        System.out.println("pull test");
+        System.out.println("httpspush test5");
+        System.out.println("pull test5");
     }
 }

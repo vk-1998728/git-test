@@ -2,14 +2,6 @@ package com.zlj;
 
 public class test {
     public static void main(String[] args) {
-        System.out.println("你好 git");
-        System.out.println("你好 git2");
-        System.out.println("你好 git3");
-        System.out.println("你好 git4");
-
-        System.out.println("你好 git5");
-        System.out.println("push test");
-        System.out.println("httpspush test4");
-        System.out.println("pull test 4");
+        System.out.println("4-17这是test分支远程库请pull下来");
     }
 }
